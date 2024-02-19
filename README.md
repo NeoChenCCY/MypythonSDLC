@@ -13,7 +13,7 @@ S:需求描述->
 
 D:規劃->
 首頁
-1.要有登入登出功能
-2.會員權限由ADMIN決定帳號是否發放
-3.用pthon + Django + mySQL/postgreSQL
+1.要有登入登出功能=>用內建的(帳號neochen,密碼1qaz@WSX3edc)
+2.會員權限由ADMIN決定帳號是否發放=>內建就有
+3.用pthon + Django + mySQL/postgreSQL/sqlite(預設)
 
